@@ -1,5 +1,9 @@
 ## SVM Parameter Optimisation
 
+## Dataset Name 
+
+Letter Recognition
+
 ### Data Set Characteristics:  
 
 Multivariate
@@ -16,7 +20,5 @@ Multivariate
 
 Classification
 
-### Missing Values?
 
-No
 
